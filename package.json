@@ -1,0 +1,16 @@
+{
+  "name": "bendserver",
+  "version": "1.0.0",
+  "description": "other backend for other aplication",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LuisF",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.3"
+  }
+}
